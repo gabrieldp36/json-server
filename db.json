@@ -1,0 +1,231 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne",
+      "habilities": "detective, intelecto nivel genio, brillante estratega y acróbata experto, dominio de artes marciales y técnicas de sigilo e intimidación, escapismo, uso de equipamiento, dispositivos y armamento de alta tecnología",
+      "assets_img": true
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El",
+      "habilities": "súper fuerza, velocidad, resistencia, agilidad, reflejos, durabilidad, sentidos y longevidad, poderes oculares, agudeza sobrehumana, visión de calor, visión del espectro, electromagnético, visión microscópica, visión de rayos x, visión telescópica, visión infrarroja, aliento sobrehumano, aliento helado, aliento de viento, invulnerabilidad, factor de curación rápida y vuelo",
+      "assets_img": true
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Flash",
+      "publisher": "DC Comics",
+      "alter_ego": "Jay Garrick",
+      "first_appearance": "Flash Comics #1",
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "habilities": "sus poderes se basan en la Súper-velocidad, los cuales obtiene de la “Fuerza de velocidad”. Entre ellos se destacan: capacidad de correr más rápido que la luz, reflejos sobrehumanos, factor curativo que le otorga regeneración casi instantánea, puede traspasar materia, crear remanentes del tiempo con su gran velocidad, lanzar energía con sus manos y viajar en el tiempo con su super-velocidad",
+      "assets_img": true
+    },
+    {
+      "id": "dc-green",
+      "superhero": "Green Lantern",
+      "publisher": "DC Comics",
+      "alter_ego": "Alan Scott",
+      "first_appearance": "All-American Comics #16",
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+      "habilities": "gracias al anillo de poder que posee, tiene la capacidad de crear manifestaciones de luz sólida mediante la utilización del pensamiento",
+      "assets_img": true
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen",
+      "habilities": "posee una gran habilidad como arquero y tiene un amplio arsenal de flechas. Es experto en las artes marciales, habilidades ninjas y la espada. Excelente rastreador, manejo de armas y piloto aviador. Amplios recursos financieros. Inmejorable estratega",
+      "assets_img": true
+    },
+    {
+      "id": "dc-wonder",
+      "superhero": "Wonder Woman",
+      "publisher": "DC Comics",
+      "alter_ego": "Princess Diana",
+      "first_appearance": "All Star Comics #8",
+      "characters": "Princess Diana",
+      "habilities": "súper vuelo, súper fuerza, súper velocidad, inmortalidad, factor de curación, reflejos, resistencia, habilidad de lucha altamente desarrollada, capacidad de hablar con los animales y en el idioma de cualquier persona que se encuentre",
+      "assets_img": true
+    },
+    {
+      "id": "dc-martian",
+      "superhero": "Martian Manhunter",
+      "publisher": "DC Comics",
+      "alter_ego": "J\"onn J\"onzz",
+      "first_appearance": "Detective Comics #225",
+      "characters": "Martian Manhunter",
+      "habilities": "superfuerza, velocidad sobrehumana, telepatía, telekinesis, regeneración acelerada, intangibilidad, invisibilidad, cambio de forma, capacidad de volar, visión láser y nueve sentidos aumentados",
+      "assets_img": true
+    },
+    {
+      "id": "dc-robin",
+      "superhero": "Robin/Nightwing",
+      "publisher": "DC Comics",
+      "alter_ego": "Dick Grayson",
+      "first_appearance": "Detective Comics #38",
+      "characters": "Dick Grayson",
+      "habilities": "artista marcial experto, estrategias de combate, tecnología avanzada y habilidad gimnástica",
+      "assets_img": true
+    },
+    {
+      "id": "dc-blue",
+      "superhero": "Blue Beetle",
+      "publisher": "DC Comics",
+      "alter_ego": "Dan Garret",
+      "first_appearance": "Mystery Men Comics #1",
+      "characters": "Dan Garret, Ted Kord, Jaime Reyes",
+      "habilities": "su armadura alienígena le concede: la capacidad de volar, resistencia y durabilidad mejoradas, creación de armas y traducción de idiomas alienígenas",
+      "assets_img": true
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Black Canary",
+      "publisher": "DC Comics",
+      "alter_ego": "Dinah Drake",
+      "first_appearance": "Flash Comics #86",
+      "characters": "Dinah Drake, Dinah Lance",
+      "habilities": "experta en artes marciales, grito ultrasónico, tenaz aviadora y motociclista, gran estratega, reflejos, resistencia y agilidad sobrehumanos",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-spider",
+      "superhero": "Spider Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Peter Parker",
+      "first_appearance": "Amazing Fantasy #15",
+      "characters": "Peter Parker",
+      "habilities": "intelecto nivel genio, competente científico e inventor, fuerza, velocidad, agilidad, sentidos, reflejos, coordinación, equilibrio y resistencia sobrehumanos, sentido arácnido, se aferra a la mayoría de las superficies sólidas, utiliza muñequeras para disparar telarañas",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-captain",
+      "superhero": "Captain America",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Steve Rogers",
+      "first_appearance": "Captain America Comics #1",
+      "characters": "Steve Rogers",
+      "habilities": "sentidos, agilidad, velocidad y fuerza sobrehumanas, gran habilidad con su escudo, instinto de liderazgo, gran resistencia, inmune a gases y enfermedades, curación y regeneración acelerada, genio táctico, artista marcial, acróbata experto",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-iron",
+      "superhero": "Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Tony Stark",
+      "first_appearance": "Tales of Suspense #39",
+      "characters": "Tony Stark",
+      "habilities": "cómo Tony Stark: intelecto nivel genio, experto científico e ingeniero. Cómo Iron Man: fuerza sobrehumana y durabilidad, vuelo supersónico, repulsor de energía y misiles de proyección, regenerativo soporte vital, uso de equipamiento, dispositivos y armamento de alta tecnología",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-thor",
+      "superhero": "Thor",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Thor Odinson",
+      "first_appearance": "Journey into Myster #83",
+      "characters": "Thor Odinson",
+      "habilities": "fuerza sobrehumana, velocidad, durabilidad y longevidad. Habilidades a través de Mjolnir: teletransportación interdimensional, manipulación eléctrica, vuelo y manipulación del tiempo",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-hulk",
+      "superhero": "Hulk",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Bruce Banner",
+      "first_appearance": "The Incredible Hulk #1",
+      "characters": "Bruce Banner",
+      "habilities": "súper fuerza, velocidad, resistencia y salto, invulnerabilidad, longevidad, factor de curación rápida, capacidad de respirar bajo el agua, respirar en el espacio y ver fantasmas y otras entidades astrales. Todas sus habilidades aumentan en relación a su furia y emociones negativas tales como la ira, el miedo, e incluso los celos",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-wolverine",
+      "superhero": "Wolverine",
+      "publisher": "Marvel Comics",
+      "alter_ego": "James Howlett",
+      "first_appearance": "The Incredible Hulk #180",
+      "characters": "James Howlett",
+      "habilities": "factor de curación mutante, regeneración intensificada, resistencia a poderes psíquicos, garras retráctiles, esqueleto recubierto de adamantium, sentidos animales, capacidad física sobrehumana",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-daredevil",
+      "superhero": "Daredevil",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Matthew Michael Murdock",
+      "first_appearance": "Daredevil #1",
+      "characters": "Matthew Michael Murdock",
+      "habilities": "ecolocalización, acróbata experto y maestro en artes marciales, tirador de precisión perfecta carencia del sentido del miedo",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-hawkeye",
+      "superhero": "Hawkeye",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Clinton Francis Barton",
+      "first_appearance": "Tales of Suspense #57",
+      "characters": "Clinton Francis Barton",
+      "habilities": "Arquero excepcional, con una puntería perfecta, excelente percepción y reflejos extraordinarios. Acróbata experto. Buen combatiente cuerpo a cuerpo. Arcos fabricados por industrias Stark, uno corto, otro largo y otro compuesto. Flechas multiusos",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-cyclops",
+      "superhero": "Cyclops",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Scott Summers",
+      "first_appearance": "X-Men #1",
+      "characters": "Scott Summers",
+      "habilities": "rayos ópticos contusivos de energía solar, maestro táctico, artista marcial experto, excelente combatiente cuerpo a cuerpo e inmunidad a los poderes de sus hermanos",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-silver",
+      "superhero": "Silver Surfer",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Norrin Radd",
+      "first_appearance": "The Fantastic Four #48",
+      "characters": "Norrin Radd",
+      "habilities": "puede volar también sin su tabla, agilidad, fuerza y reflejos sobrehumanos, piel plateada casi impenetrable, absorbe energía cósmica de gran potencia,  tiene la capacidad rastrear pequeños objetos perdidos en el espacio, puede transformar la materia en energía cósmica y viceversa, crear armas o utensilios, curar heridas, ver el pasado, regenerarse, posee manipulación molecular y transportación interdimensional",
+      "assets_img": true
+    },
+    {
+      "superhero": "robin1",
+      "alter_ego": "Tapia",
+      "first_appearance": "",
+      "characters": "",
+      "publisher": "DC Comics",
+      "habilities": "correr",
+      "alt_img": "https://www.tiendascosmic.com/imagenes/comics/UdcRobin02_01g.jpg",
+      "id": "9IDEd-W"
+    },
+    {
+      "superhero": "Dr. Strange",
+      "alter_ego": "Stephen Strange",
+      "first_appearance": "",
+      "characters": "",
+      "publisher": "Marvel Comics",
+      "habilities": "control magia",
+      "alt_img": "https://imagenes.elpais.com/resizer/3G2SMCMaQ5T5inkF0lzRUByqglU=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/GFTSI4M6JMUZ7FFCM3QYCYV63Y.jpg",
+      "id": "m_x8xn7"
+    }
+  ]
+}
