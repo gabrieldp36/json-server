@@ -108,6 +108,56 @@
       "assets_img": true
     },
     {
+      "id": "dc-aquaman",
+      "superhero": "Aquaman",
+      "publisher": "DC Comics",
+      "alter_ego": "Arthur Curry",
+      "first_appearance": "More Fun Comics #73 ",
+      "characters": "Arthur Curry",
+      "habilities": "adaptación acuática-anfibia, telepatía, dominación psiónica de la vida marina, factor de curación, sentidos mejorados. Fuerza, agilidad, destreza, velocidad, resistencia y durabilidad sobrehumanas. Portador del tridente de Poseidón. Camuflaje submarino, creación y lanzamiento de rayos de agua dura",
+      "assets_img": true
+    },
+    {
+      "id": "dc-cyborg",
+      "superhero": "Cyborg",
+      "publisher": "DC Comics",
+      "alter_ego": "Victor Stone",
+      "first_appearance": "DC Comics Presents #26",
+      "characters": "Victor Stone",
+      "habilities": "intelecto nivel genio, experto en combate cuerpo a cuerpo, fuerza sobrehumana, inmersión en el ciberespacio, tecnopatía, capacidad de volar, sensores y armamento avanzado",
+      "assets_img": true
+    },
+    {
+      "id": "dc-catwoman",
+      "superhero": "Catwoman",
+      "publisher": "DC Comics",
+      "alter_ego": "Selina Kyle",
+      "first_appearance": "DC Comics Batman #1",
+      "characters": "Selina Kyle",
+      "habilities": "gran atleta, experta ladrona, agilidad propia de un gato, excelente combatiendo mano a mano. Utiliza un látigo como arma",
+      "assets_img": true
+    },
+    {
+      "id": "dc-raven",
+      "superhero": "Raven",
+      "publisher": "DC Comics",
+      "alter_ego": "Rachel Roth",
+      "first_appearance": "DC Comics Presents #26",
+      "characters": "Rachel Roth",
+      "habilities": "empatía, manipulación emocional, curación empática, telequinesis, teletransportación, vuelo, control de la energía mística y proyección astral",
+      "assets_img": true
+    },
+    {
+      "id": "dc-etrigan",
+      "superhero": "Etrigan",
+      "publisher": "DC Comics",
+      "alter_ego": "Jason Blood",
+      "first_appearance": "DC Comics The Demon #1",
+      "characters": "Jason Blood",
+      "habilities": "atributos físicos y poderes sensoriales sobrehumanos, capacidad de regeneración, poderes mágicos, precognición, telepatía, inmortalidad, puede lanzar llamas de fuego místico y tiene la capacidad de volar",
+      "assets_img": true
+    },
+    {
       "id": "marvel-spider",
       "superhero": "Spider Man",
       "publisher": "Marvel Comics",
@@ -208,24 +258,54 @@
       "assets_img": true
     },
     {
-      "superhero": "robin1",
-      "alter_ego": "Tapia",
-      "first_appearance": "",
-      "characters": "",
-      "publisher": "DC Comics",
-      "habilities": "correr",
-      "alt_img": "https://www.tiendascosmic.com/imagenes/comics/UdcRobin02_01g.jpg",
-      "id": "9IDEd-W"
+      "id": "marvel-strange",
+      "superhero": "Dr. Strange",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Stephen Strange",
+      "first_appearance": "Strange Tales #110",
+      "characters": "Stephen Strange, Stephen Sanders, Vincent Stevens",
+      "habilities": "poderes místicos tales como teletransportación, generación de ilusiones y proyección de energía. Puede invocar las llamas de los Faltine, las bandas carmesíes de Cyttorak y el escudo de los serafin. Tiene la capacidad de practicar el viaje astral, durante el cual es invisible e intangible, y solo puede ser dañado mediante rituales místicos más elaborados, sin embargo su cuerpo es vulnerable por estar en un trance similar a la muerte. En caso de que su cuerpo físico muriese durante dicho viaje, Stephen estaría en forma astral por siempre. Posee una esperanza de vida prolongada por el Ankh de la Vida y es dueño del Ojo de Agamotto",
+      "assets_img": true
     },
     {
-      "superhero": "Dr. Strange",
-      "alter_ego": "Stephen Strange",
-      "first_appearance": "",
-      "characters": "",
+      "id": "marvel-blackwidow",
+      "superhero": "Black Widow",
       "publisher": "Marvel Comics",
-      "habilities": "control magia",
-      "alt_img": "https://imagenes.elpais.com/resizer/3G2SMCMaQ5T5inkF0lzRUByqglU=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/GFTSI4M6JMUZ7FFCM3QYCYV63Y.jpg",
-      "id": "m_x8xn7"
+      "alter_ego": "Natasha Romanoff",
+      "first_appearance": "Tales of Suspense #52",
+      "characters": "Natasha Romanoff, Natalie Rushman, Laura Matthers, Mary Farrell, Oktober, Yelena Belova",
+      "habilities": "experta táctica, excelente combatiente cuerpo a cuerpo y agente secreta, envejecimiento lento y sistema inmunológico súper mejorado, tiradora experta y gran dominio de armas de filo e impacto",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-vision",
+      "superhero": "Vision",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Victor Shade",
+      "first_appearance": "Avengers #57",
+      "characters": "Victor Shade",
+      "habilities": "habilidades físicas sobrehumanas, inteligencia superior, vuelo, control de densidad, intangibilidad, regeneración, proyección de energía solar, tecnopatía",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-star",
+      "superhero": "Star Lord",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Peter Jason Quill",
+      "first_appearance": "Marvel Spotlight (vol. 2)  #6",
+      "characters": "Peter Jason Quill",
+      "habilities": "fuerza sobrehumana y vuelo (gracias a su traje), arma elemental y tirador experto",
+      "assets_img": true
+    },
+    {
+      "id": "marvel-ant",
+      "superhero": "Ant Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Scott Lang",
+      "first_appearance": " Tales to Astonish #27",
+      "characters": " Scott Lang, Hank Pym, Eric O'Grady ",
+      "habilities": "cambios de tamaño desde casi microscópico a ~ 100 pies, mantiene la fuerza del tamaño normal en estado reducido, proyección de bioenergía, también conocida como Bio-Sting, fuerza y agilidad",
+      "assets_img": true
     }
   ]
 }
