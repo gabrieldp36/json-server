@@ -2,18 +2,23 @@
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
+<img src="https://raw.githubusercontent.com/typicode/json-server/master/src/server/public/images/json.png" align="right">
+
 * [**Create your database**](#create-your-database)
 * [Deploy to **Heroku**](#deploy-to-heroku)
-* [Deploy to **Glitch**](#deploy-to-glitch)
+* [Deploy to **now**](#deploy-to-now)
 * [Deploy to **Azure**](#deploy-to-azure)
+
 
 ## Create your database
 
-1. Press the green `Use this template`-button in the right corner
-2. Give your new repo a name and press the green `Create repository from template`-button
-3. Clone your newly created repository to your computer
+1 . Clone this repo to anywhere on your computer.
 
-4 . Change the contents of `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git locally.
+```bash
+git clone https://github.com/rymdar/json-server-heroku.git
+```
+
+2 . Change `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git. 
 
 _this example will create `/posts` route , each resource will have `id`, `title` and `content`. `id` will auto increment!_
 ```json
@@ -97,16 +102,32 @@ You also have to make changes to the port, you can't hardcode a dev-port. But yo
 const port = process.env.PORT || 4000;
 ```
 
-## Deploy to Glitch
+---
 
-Not tested 100%. Same as with Heroku, will sleep after a while.
+## Deploy to **now**
 
-1. Register for [Glitch](https://glitch.com/) or go to [Glitch/edit](https://glitch.com/)
-2. Click **New Project**
-3. Click **Import from GitHub**
-4. Paste `https://github.com/rymdar/json-server-heroku.git` into the URL-input and click OK.
-5. Wait for it to setup
-6. Press **Share**-button to get your URL to live site. It should be something for example like: `https://fallabe-pie-snake.glitch.me`. And your DB will be at `https://fallabe-pie-snake.glitch.me/posts`
+1 . [Create your database](#create-your-database)
+
+2 . Install now cli-tool globally
+```bash
+npm install -g now
+```
+
+3 . Run the `now` command in this folder/repo where your project is. If you run it for the first time, you will be prompted to login, after login, run the command again:
+```
+now --public
+```
+_`--public` is to skip the prompt telling you that you will open source your project if you deploy it to now_
+
+4 . The URL will be copied automatically and you can just paste it into your browser.
+
+5. **Optional**: Rename the deployment:
+```bash
+now alias https://your-deployed-name.now.sh new-name
+```
+_first argument is the deployed site, second argument is the new name to give it_
+
+---
 
 ## Deploy to **Azure**
 
